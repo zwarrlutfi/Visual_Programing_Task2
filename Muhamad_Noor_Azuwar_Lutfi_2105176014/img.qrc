@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="img">
+    <file>1.JPG</file>
+    <file>2.jpg</file>
+    <file>3.JPG</file>
+    <file>Only 25k.jpg</file>
+  </qresource>
+</RCC>
